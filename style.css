@@ -2,11 +2,17 @@ body {
   font-size: 16px;
 }
 
-.todo-text:hover, .todo-text.done {
+/*.todo-text:hover, .todo-text.done {
   cursor: pointer;
   text-decoration: line-through;
-}
+}*/
 
 body {
-	background-image: url("https://download.unsplash.com/photo-1433959352364-9314c5b6eb0b");
-}
+/*	background-image: url("https://download.unsplash.com/photo-1433959352364-9314c5b6eb0b");*/
+	background-image: url("https://upload.wikimedia.org/wikipedia/commons/c/cd/Mars_atmosphere_2.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+
+/*.input {
+	height: 50px;
+}*/

@@ -12,8 +12,7 @@ $(function() {
   // `toDos` array is our model (holds our data)
   // contains test (or "seed") data
   var toDos = [
-    {name: "Add item", desc: "add description"},
-    {name: "Add item", desc: "add description"}
+    {name: "Add Planet (Example: Mars)", desc: "Add Review and/or Fun Things to Do Here (Example: Dust Surfing)"}
   ];
 
   // append existing todos (from seed data) to `$toDoList`
